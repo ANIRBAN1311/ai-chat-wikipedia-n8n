@@ -33,7 +33,7 @@ This project demonstrates how to build a powerful AI chatbot workflow using [n8n
    - **AI Agent** → Connects to OpenAI + tools + memory.
    - Select model: **GPT-4o mini**
    - Add tool: **Wikipedia**
-   - Add memory: **Simple buffer (last 10 messages)**
+   - Add memory: **Simple buffer**
 
 ---
 

@@ -3,6 +3,8 @@
 
 This project demonstrates how to build a powerful AI chatbot workflow using [n8n](https://n8n.io/) with OpenAI, Wikipedia integration, and memory support.
 
+![Workflow Screenshot](AI%20Chat%20with%20Wikipedia%20using%20n8n.png)
+
 ---
 
 ## 🧠 What It Does
@@ -43,6 +45,7 @@ This project demonstrates how to build a powerful AI chatbot workflow using [n8n
 User: What is the capital of France?
 AI: Paris
 ![Uploading image.png…]()
+
 
 
 User: Tell me its history.
